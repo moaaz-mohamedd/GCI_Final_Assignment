@@ -1,0 +1,4 @@
+risk_segment,customers,actual_churn_rate,avg_monthly_revenue,total_monthly_revenue,annualized_revenue
+Low Risk,50000,32.44,63.5,3167215.63,38006587.53
+Medium Risk,30000,58.29,54.98,1643671.84,19724062.06
+High Risk,20000,79.27,52.35,1040147.98,12481775.81

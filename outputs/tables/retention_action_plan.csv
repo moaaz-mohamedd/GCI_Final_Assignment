@@ -1,0 +1,5 @@
+Risk Segment,Customer Signal,Recommended Action,Business Rationale
+High Risk,Old equipment + high churn probability,Offer handset upgrade or device discount,Equipment age was the strongest model driver of churn.
+High Risk,Sharp decline in monthly usage,Send personalized plan optimization or bonus usage offer,Usage decline was a key early warning signal.
+Medium Risk,Moderate churn probability,Monitor usage and send light retention offer,Medium-risk customers may be saved with lower-cost campaigns.
+Low Risk,Low churn probability,No costly retention offer; maintain standard engagement,Avoid wasting retention budget on customers unlikely to churn.

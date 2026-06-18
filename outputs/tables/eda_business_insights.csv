@@ -1,0 +1,6 @@
+Insight Area,Key Finding,Business Meaning
+Churn Rate,49.56% of customers churned.,Company A faces a major customer retention problem.
+Monthly Revenue,Churned customers have nearly the same average monthly revenue as retained customers.,"Churn creates a real revenue-risk issue, not only a low-value customer issue."
+Usage Level,Churned customers show lower average monthly usage.,Lower engagement may indicate early churn risk.
+Usage Change,Churned customers show a sharper decline in monthly usage.,Usage decline can be used as an early warning signal.
+Equipment Age,Churned customers have older equipment on average.,Device upgrade offers may help reduce churn among high-risk customers.

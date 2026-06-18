@@ -1,0 +1,4 @@
+Risk Segment,Customers,Actual Churn Rate (%),Avg Monthly Revenue,Annualized Revenue,Recommended Action,Business Rationale
+Low Risk,50000,32.44,63.5,38006587.53,No costly retention offer; maintain standard engagement,Avoid wasting retention budget on customers unlikely to churn.
+Medium Risk,30000,58.29,54.98,19724062.06,Monitor usage and send light retention offer,Medium-risk customers may be saved with lower-cost campaigns.
+High Risk,20000,79.27,52.35,12481775.81,Offer handset upgrade or device discount | Send personalized plan optimization or bonus usage offer,Equipment age was the strongest model driver of churn. | Usage decline was a key early warning signal.
